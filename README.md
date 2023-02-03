@@ -3,9 +3,10 @@
 This PhD project performed multiobjective design optimization of a new mobile-bearing lumbar disk prosthesis concept in terms of the tradeoff between performance metrics of kinematics, contact mechanics and facet joint loads, to address multiple postoperative complications that are plaguing widespread clinical use of total disk arthroplasty.
 
 The overarching goal was divided into three sub-objectives:
-1) Computational investigation of design sensitivity;
-2) Proposal and development of a new design concept;
-3) Multi-objective design optimization based on surrogate models (neural networks).
+1) Parametric design and finite element model development of the spine and implants.
+2) Computational investigation of design sensitivity;
+3) Proposal and development of a new design concept;
+4) Multi-objective design optimization based on surrogate models (neural networks).
 
 These objectives have been successfully achieved. Please further see the PhD thesis and journal articles related to this project:
 
