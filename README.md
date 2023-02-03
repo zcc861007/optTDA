@@ -7,7 +7,7 @@ The overarching goal was divided into three sub-objectives:
 2) Proposal and development of a new design concept;
 3) Multi-objective design optimization based on surrogate models (neural networks).
 
-These objectives have been successfully achieved. Please further see the PhD thesis and three journal articles:
+These objectives have been successfully achieved. Please further see the PhD thesis and journal articles related to this project:
 
 ### PhD Thesis
 **Multi-Objective Design Optimization of a Mobile-Bearing Total Disc Arthroplasty Considering Spinal Kinematics, Facet Joint Loads, and Metal-on-Polyethylene Contact Mechanics**  
